@@ -9,6 +9,7 @@ T Number: T00270860
 Requirements Engineering
 
 # Project Status
+Started investigating my problems, stakeholders and goals.
 
 # Repository Purpose
 to store the commits for my requirements engineering project
